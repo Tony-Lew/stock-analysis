@@ -23,4 +23,5 @@ During this Module we started of writing a VBA in a longer drawn out form to tea
 ![original VBA code](https://user-images.githubusercontent.com/100821974/160249804-93ff798a-65b5-4aa3-813a-4eb9040e68a8.png)
 But we also learned how to refactor our VBA code so it will take less computing power and time to accomplish the same task. Also if we need to go any add any further !
 data we could on the refactored code much easier then to adjust the original code.
-[refactored VBA code](https://user-images.githubusercontent.com/100821974/160249808-7c6c20db-48b7-498c-b6c2-3ff66b223fdd.png)
+![refactored VBA code](https://user-images.githubusercontent.com/100821974/160249890-d9923448-6110-41f4-b796-c272331a3c2d.png)
+
